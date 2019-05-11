@@ -2,4 +2,4 @@
 
 board = []
 
-board.push()
+board.push(" "," "," "," "," "," "," "," "," ")
